@@ -1,4 +1,4 @@
-<!DOCTYPE md>
+<!DOCTYPE html>
 <html>
 <body style="background-color:burlywood">
     <h1 style="background-color:tomato;font-family:'Comic Sans MS';text-align:center;">Hello World</h1>
